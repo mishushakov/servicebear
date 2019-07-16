@@ -1,3 +1,9 @@
+# Deprecation Notice
+
+Google built API endpoint to generate the OAuth Access Tokens for Service Accounts: https://cloud.google.com/iam/credentials/reference/rest/v1/projects.serviceAccounts/generateAccessToken
+
+---
+
 # ServiceBear
 
 ServiceBear is a small CLI-Utility to generate OAuth Access Tokens from Google's Service Accounts. It uses exactly the same authenthication flow, as described in https://developers.google.com/identity/protocols/OAuth2ServiceAccount
